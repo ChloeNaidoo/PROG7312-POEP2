@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|c:\\users\\lab_services_student\\source\\repos\\prog3bpoep1\\prog3bpoep1\\appstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|solutionrelative:prog3bpoep1\\appstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|c:\\users\\lab_services_student\\source\\repos\\prog3bpoep1\\prog3bpoep1\\forms\\reportissueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|solutionrelative:prog3bpoep1\\forms\\reportissueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\prog3bpoep1\\forms\\rateexperienceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|solutionrelative:prog3bpoep1\\forms\\rateexperienceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\prog3bpoep1\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|solutionrelative:prog3bpoep1\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\prog3bpoep1\\models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|solutionrelative:prog3bpoep1\\models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|c:\\users\\lab_services_student\\source\\repos\\prog3bpoep1\\prog3bpoep1\\models\\uistyles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|solutionrelative:prog3bpoep1\\models\\uistyles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|c:\\users\\lab_services_student\\source\\repos\\prog3bpoep1\\prog3bpoep1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|solutionrelative:prog3bpoep1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppState.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\AppState.cs",
+              "RelativeDocumentMoniker": "PROG3BPOEP1\\AppState.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\AppState.cs",
+              "RelativeToolTip": "PROG3BPOEP1\\AppState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T19:21:49.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Program.cs",
+              "RelativeDocumentMoniker": "PROG3BPOEP1\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Program.cs",
+              "RelativeToolTip": "PROG3BPOEP1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T19:21:41.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UIStyles.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Models\\UIStyles.cs",
+              "RelativeDocumentMoniker": "PROG3BPOEP1\\Models\\UIStyles.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Models\\UIStyles.cs",
+              "RelativeToolTip": "PROG3BPOEP1\\Models\\UIStyles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T18:51:44.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Issue.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Models\\Issue.cs",
+              "RelativeDocumentMoniker": "PROG3BPOEP1\\Models\\Issue.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Models\\Issue.cs",
+              "RelativeToolTip": "PROG3BPOEP1\\Models\\Issue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T15:00:41.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "PROG3BPOEP1\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Forms\\MainForm.cs",
+              "RelativeToolTip": "PROG3BPOEP1\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:53:13.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RateExperienceForm.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Forms\\RateExperienceForm.cs",
+              "RelativeDocumentMoniker": "PROG3BPOEP1\\Forms\\RateExperienceForm.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Forms\\RateExperienceForm.cs",
+              "RelativeToolTip": "PROG3BPOEP1\\Forms\\RateExperienceForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:53:07.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportIssueForm.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Forms\\ReportIssueForm.cs",
+              "RelativeDocumentMoniker": "PROG3BPOEP1\\Forms\\ReportIssueForm.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Forms\\ReportIssueForm.cs",
+              "RelativeToolTip": "PROG3BPOEP1\\Forms\\ReportIssueForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:48:51.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
