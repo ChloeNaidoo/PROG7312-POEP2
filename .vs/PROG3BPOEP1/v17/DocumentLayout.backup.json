@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|c:\\users\\lab_services_student\\source\\repos\\prog3bpoep1\\prog3bpoep1\\appstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|c:\\users\\lab_services_student\\source\\repos\\prog3bpoep1\\prog3bpoep1\\models\\uistyles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|solutionrelative:prog3bpoep1\\models\\uistyles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\prog3bpoep1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|solutionrelative:prog3bpoep1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\prog3bpoep1\\appstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|solutionrelative:prog3bpoep1\\appstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|c:\\users\\lab_services_student\\source\\repos\\prog3bpoep1\\prog3bpoep1\\forms\\reportissueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\prog3bpoep1\\forms\\reportissueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|solutionrelative:prog3bpoep1\\forms\\reportissueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\prog3bpoep1\\models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|solutionrelative:prog3bpoep1\\models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|c:\\users\\lab_services_student\\source\\repos\\prog3bpoep1\\prog3bpoep1\\models\\uistyles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|solutionrelative:prog3bpoep1\\models\\uistyles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|c:\\users\\lab_services_student\\source\\repos\\prog3bpoep1\\prog3bpoep1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|solutionrelative:prog3bpoep1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,15 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AppState.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\AppState.cs",
               "RelativeDocumentMoniker": "PROG3BPOEP1\\AppState.cs",
@@ -54,12 +50,11 @@
               "RelativeToolTip": "PROG3BPOEP1\\AppState.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T19:21:49.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T19:21:49.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Program.cs",
               "RelativeDocumentMoniker": "PROG3BPOEP1\\Program.cs",
@@ -67,25 +62,24 @@
               "RelativeToolTip": "PROG3BPOEP1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T19:21:41.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T19:21:41.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "UIStyles.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Models\\UIStyles.cs",
               "RelativeDocumentMoniker": "PROG3BPOEP1\\Models\\UIStyles.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Models\\UIStyles.cs",
               "RelativeToolTip": "PROG3BPOEP1\\Models\\UIStyles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T18:51:44.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Issue.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Models\\Issue.cs",
               "RelativeDocumentMoniker": "PROG3BPOEP1\\Models\\Issue.cs",
@@ -93,12 +87,11 @@
               "RelativeToolTip": "PROG3BPOEP1\\Models\\Issue.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T15:00:41.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T15:00:41.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Forms\\MainForm.cs",
               "RelativeDocumentMoniker": "PROG3BPOEP1\\Forms\\MainForm.cs",
@@ -106,12 +99,11 @@
               "RelativeToolTip": "PROG3BPOEP1\\Forms\\MainForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T14:53:13.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T14:53:13.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "RateExperienceForm.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Forms\\RateExperienceForm.cs",
               "RelativeDocumentMoniker": "PROG3BPOEP1\\Forms\\RateExperienceForm.cs",
@@ -119,12 +111,11 @@
               "RelativeToolTip": "PROG3BPOEP1\\Forms\\RateExperienceForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T14:53:07.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T14:53:07.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ReportIssueForm.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Forms\\ReportIssueForm.cs",
               "RelativeDocumentMoniker": "PROG3BPOEP1\\Forms\\ReportIssueForm.cs",
@@ -132,8 +123,7 @@
               "RelativeToolTip": "PROG3BPOEP1\\Forms\\ReportIssueForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T11:48:51.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T11:48:51.254Z"
             }
           ]
         }
