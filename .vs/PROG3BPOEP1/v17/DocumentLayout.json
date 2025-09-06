@@ -3,10 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\prog3bpoep1\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|solutionrelative:prog3bpoep1\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+=======
+>>>>>>> f10e75a (comments)
       "AbsoluteMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|c:\\users\\lab_services_student\\source\\repos\\prog3bpoep1\\prog3bpoep1\\models\\uistyles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D1DF875-251E-4B8F-82F5-890E291E6DD4}|PROG3BPOEP1\\PROG3BPOEP1.csproj|solutionrelative:prog3bpoep1\\models\\uistyles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,11 +41,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+=======
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+>>>>>>> f10e75a (comments)
               "Title": "AppState.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\AppState.cs",
               "RelativeDocumentMoniker": "PROG3BPOEP1\\AppState.cs",
@@ -54,7 +65,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 2,
+=======
+              "DocumentIndex": 1,
+>>>>>>> f10e75a (comments)
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Program.cs",
               "RelativeDocumentMoniker": "PROG3BPOEP1\\Program.cs",
@@ -66,13 +81,21 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
+=======
+              "DocumentIndex": 0,
+>>>>>>> f10e75a (comments)
               "Title": "UIStyles.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Models\\UIStyles.cs",
               "RelativeDocumentMoniker": "PROG3BPOEP1\\Models\\UIStyles.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Models\\UIStyles.cs",
               "RelativeToolTip": "PROG3BPOEP1\\Models\\UIStyles.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAABQAAAAAAAAAAAAAwCAAAAAwAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwAsAAAAgAAAAAAAAAA==",
+>>>>>>> f10e75a (comments)
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T18:51:44.638Z",
               "EditorCaption": ""
@@ -91,7 +114,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
+=======
+              "DocumentIndex": 5,
+>>>>>>> f10e75a (comments)
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Forms\\MainForm.cs",
               "RelativeDocumentMoniker": "PROG3BPOEP1\\Forms\\MainForm.cs",
@@ -99,12 +126,15 @@
               "RelativeToolTip": "PROG3BPOEP1\\Forms\\MainForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T14:53:13.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T14:53:13.905Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 5,
+=======
+              "DocumentIndex": 4,
+>>>>>>> f10e75a (comments)
               "Title": "RateExperienceForm.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Forms\\RateExperienceForm.cs",
               "RelativeDocumentMoniker": "PROG3BPOEP1\\Forms\\RateExperienceForm.cs",
@@ -116,7 +146,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
+=======
+              "DocumentIndex": 3,
+>>>>>>> f10e75a (comments)
               "Title": "ReportIssueForm.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\PROG3BPOEP1\\PROG3BPOEP1\\Forms\\ReportIssueForm.cs",
               "RelativeDocumentMoniker": "PROG3BPOEP1\\Forms\\ReportIssueForm.cs",
