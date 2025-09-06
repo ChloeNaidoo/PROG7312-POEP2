@@ -63,19 +63,19 @@ namespace PROG3BPOEP1.Forms
         {
             btnReportIssues.Click += (s, e) =>
             {
-                var reportForm = new ReportIssueForm(); //report issue form 
+                var reportForm = new ReportIssueForm(); //report issue page 
                 reportForm.Show();
                 this.Hide();
             };
 
             btnEvents.Click += (s, e) =>
             {
-                MessageBox.Show("Events page coming soon!"); //output message 
+                MessageBox.Show("Events page coming soon!"); //output message for events page 
             };
 
             btnStatus.Click += (s, e) =>
             {
-                MessageBox.Show("Status page coming soon!"); //output message 
+                MessageBox.Show("Status page coming soon!"); //output message for status page 
             };
         }
     }
