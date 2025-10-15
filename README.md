@@ -23,7 +23,7 @@ Requirements:
 -.NET Framework 4.7.2 (or later)
 
 ## How to Compile:
-- Clone or download the repository: git clone https://github.com/your-username/PROG3BPOEP1.git
+- Clone or download the repository: git clone https://github.com/ChloeNaidoo/PROG7312-POEP2.git
 - Open the solution file PROG3BPOEP1.sln in Visual Studio.
 - Set PROG3BPOEP1 as the startup project.
 - Build the solution by pressing Ctrl+Shift+B or going to: Build > Build Solution.
