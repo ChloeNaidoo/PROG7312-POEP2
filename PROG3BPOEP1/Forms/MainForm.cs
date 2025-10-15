@@ -80,16 +80,23 @@ namespace PROG3BPOEP1.Forms
             btnReportIssues.Click += (s, e) =>
             {
                 var reportForm = new ReportIssueForm();
-                reportForm.ShowDialog(this); // Open as modal dialog
+                reportForm.FormClosed += (sender, args) => this.Show(); // show main form when report form closes
+                reportForm.Show(); // modeless
+                this.Hide();       // hide main form while report form is open
             };
+
 
             // Local Events Button — opens the EventsForm to view events and announcements.
             btnLocalEvents = new Button();
             StyleButton(btnLocalEvents, "Local Events and Announcements");
             btnLocalEvents.Click += (s, e) =>
             {
+
                 var eventsForm = new EventsForm();
                 eventsForm.ShowDialog(this);
+
+            
+
             };
 
             // Service Status Button — placeholder (to be implemented later)
@@ -97,8 +104,12 @@ namespace PROG3BPOEP1.Forms
             StyleButton(btnServiceStatus, "Service Request Status");
             btnServiceStatus.Click += (s, e) =>
             {
+
                 MessageBox.Show("Service Request Status - To be implemented in Task 3",
                     "Service Request Status");
+
+              
+
             };
 
             // Add buttons to layout grid
