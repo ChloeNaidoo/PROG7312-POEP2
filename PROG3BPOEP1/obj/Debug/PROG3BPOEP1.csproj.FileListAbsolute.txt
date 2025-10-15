@@ -13,3 +13,5 @@ C:\Users\lab_services_student\source\repos\PROG3BPOEP1\PROG3BPOEP1\obj\Debug\PRO
 C:\Users\lab_services_student\source\repos\PROG3BPOEP1\PROG3BPOEP1\obj\Debug\MunicipalServicesApp.exe
 C:\Users\lab_services_student\source\repos\PROG3BPOEP1\PROG3BPOEP1\obj\Debug\MunicipalServicesApp.pdb
 C:\Users\lab_services_student\source\repos\PROG3BPOEP1\PROG3BPOEP1\obj\Debug\PROG3BPOEP1.Forms.MainForm.resources
+C:\Users\lab_services_student\source\repos\PROG3BPOEP1\PROG3BPOEP1\obj\Debug\MunicipalServicesApp.exe.config
+C:\Users\lab_services_student\source\repos\PROG3BPOEP1\PROG3BPOEP1\obj\Debug\PROG3BPOEP1.Models.EventsForm.resources

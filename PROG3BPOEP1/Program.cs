@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using PROG3BPOEP1.Forms;
 
 // Code Attribution:
 // Author: Andrew Troelsen & Philip Japikse (2017)
@@ -19,7 +20,7 @@ namespace PROG3BPOEP1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Forms.MainForm());
+            Application.Run(new MainForm());
         }
     }
 

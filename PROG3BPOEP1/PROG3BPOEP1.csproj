@@ -54,6 +54,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AppState.cs" />
+    <Compile Include="Forms\EventsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Forms\RateExperienceForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -63,11 +66,15 @@
     <Compile Include="Forms\ReportIssueForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Models\EventModel.cs" />
     <Compile Include="Models\Feedback.cs" />
     <Compile Include="Models\Issue.cs" />
     <Compile Include="Models\UIStyles.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\EventsForm.resx">
+      <DependentUpon>EventsForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
